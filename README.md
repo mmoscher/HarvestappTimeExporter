@@ -1,5 +1,4 @@
-#HarvestappT Time Exporter
-------------------------------------------------
+#Harvestapp Time Exporter
 
 A simple WebApp to offer you the possibility to provide a simple access on your current timetracks for your clients.
 
@@ -8,6 +7,11 @@ A simple WebApp to offer you the possibility to provide a simple access on your 
 Just grab a copy on a server and edit the /lib/config.secret.php.sample and save the file as /lib/config.secret.php
 That's all!
 **Have fun =)**
+
+
+------------------------------------------------
+
+
 
 #### Technolgies
 
