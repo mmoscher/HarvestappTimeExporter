@@ -26,4 +26,4 @@ Bootstrap v3.0
 
 [HaPi](http://mdbitz.com/harvest-api/) (thanks @ _Matthew J. Denton_ for this great PHP API)
 
-[Slim](www.slimframework.com/) (thanks @_Josh Lockhart)
+[Slim](http://www.slimframework.com/) (thanks @_Josh Lockhart)
