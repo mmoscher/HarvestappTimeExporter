@@ -75,6 +75,7 @@ Options -MultiViews
 
 ErrorDocument 404 /404.html
 
+DirectoryIndex index.php index.html
 
 # ##############################################################################
 # # INTERNET EXPLORER                                                          #
