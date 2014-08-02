@@ -13,7 +13,7 @@ if( !$clientResult->isSuccess() ) {
     //echo "Client: " . $client->name . "<br/>";
     //}
 
-    echo "something went wrong <br/>";
+    echo "something went wrong :( <br/>";
     die();
 
 }
